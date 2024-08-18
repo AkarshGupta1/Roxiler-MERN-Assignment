@@ -4,7 +4,9 @@
 Make sure you have the following software installed:
 
 • Visual Studio Code: For editing and running the code.
+
 • MongoDB Compass: For managing your MongoDB databases.
+
 • Node.js Framework: Required for running the server and client applications.
 
 ## Steps to Run the Project
